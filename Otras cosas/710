@@ -1,0 +1,206 @@
+########################################
+# Program: needle
+# Rundate: Fri 30 Jan 2026 10:07:22
+# Commandline: needle
+#    -asequence NM_103605.txt
+#    -bsequence seq_locus_AT.fasta
+#    -gapopen 10
+#    -gapextend 0.5
+#    -outfile 710
+# Align_format: srspair
+# Report_file: 710
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: NM_103605
+# 2: 17236000..17238000
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 2115
+# Identity:     496/2115 (23.5%)
+# Similarity:   496/2115 (23.5%)
+# Gaps:        1473/2115 (69.6%)
+# Score: 710.0
+# 
+#
+#=======================================
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172      1 TATCTGCGTATGTATAGAAACAGCTAGCTAGCATGCAATGTAGCGGGAAA     50
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172     51 GCGAGTGCATGGACTTCAGTGAGTGTGTCTCATATAATGCCATTTCAACT    100
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    101 TTTAACCTAAAAAGCAAAACTCTCTCTTTGTTTCAACCAAAATACAAAAC    150
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    151 AACCACTTGCGAGAGTCAATAAAGCATCAGACAAACAACTAACCACATAC    200
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    201 ACACCACAGCTTACATATATTGATGTCTTTGTACACATTCCATTGGAAAT    250
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    251 ATCAAATTCTTGAAAAGATTCTTCTTGTTATCATCTCATAAACTTATTTA    300
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    301 GTATATATTTATCAAAAATAAAAAATTAATATAAATATTATTGAGTCACC    350
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    351 TGTTTTACTAAGAGTTTTAATATAAGTATATAACAGTACAAAAAGTTTTA    400
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    401 GATTTCAATGTTTGTTTATATAGAAATATACTAGGTCTACCCCCTTTTCA    450
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    451 ACGGGAAATGCTATTATTATTTCCTTTTAACTTCTTGCTCTTGTACGTAC    500
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    501 GTAGGAATTAAGACAGAGATATTATTTTAACAACATCAAATGTGTCTTTA    550
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    551 TTCAGAAATTTCTCTAAATGAAACATTCCTACATACCAACGATCTAGAGA    600
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    601 AATACTTAGATGGCCAAATCAGAAGAGAGTACAACTGATCACTAGTGAAT    650
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    651 TTGTCAAGAATAAACGCGAAAAAAAGATGAGCTAAACTGAGCATTCATAA    700
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    701 TTAAGATTACATCGCAAAAATAATCTACATAGGATACATCAAACTCGCAG    750
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    751 ATTAATAAGGGAATTCTTAAGTAGATTTTGTAGTTTTAGAGACTTATTCC    800
+
+NM_103605          0 --------------------------------------------------      0
+                                                                       
+17236000..172    801 TATTTTTATTTTTATTTTGAATTTCTAGATACCAATTGATTCCTCTGAAC    850
+
+NM_103605          1 ---------ATGAAGGTTCATGAGTTTTC--GAATGGGTTTTCTTCATCG     39
+                              ||    .|.|||.||..|||  .||    ||||||.|.|| 
+17236000..172    851 CTAAACCAGAT----CTACATAAGAATTCCACAA----TTTTCTGCCTC-    891
+
+NM_103605         40 TGGGATCAACATGACTCGACATCATCCCTT-AGCCT----------AAGC     78
+                         |.|..|||||||  .|||| |||||| ||..|          ||||
+17236000..172    892 ----ACCTTCATGACT--TCATC-TCCCTTCAGGATGGAGAGGAAAAAGC    934
+
+NM_103605         79 TGC---------------------------AAACG---------------     86
+                     | |                           |||.|               
+17236000..172    935 T-CGAGGGTTACATTGTCAATGATTTTATTAAAAGTAGTTGCCATAGTAC    983
+
+NM_103605         87 -------------CCTCC-GTCCTCTCGCCCCTAAGCTCTC----CGGCA    118
+                                  .|||| ||.||||..|.|| |||.||||    |..||
+17236000..172    984 TACTATTTTTGTTTCTCCTGTTCTCTATCTCC-AAGTTCTCAAATCCCCA   1032
+
+NM_103605        119 GC-CCTCCCTCCCCTCCTTCT--------TCTTC------CTCCGGCGTC    153
+                     || |||.|.|..||| |||.|        |||||      ||||    ||
+17236000..172   1033 GCTCCTACATGTCCT-CTTGTACTCATTCTCTTCCACTAACTCC----TC   1077
+
+NM_103605        154 ACTTCAGCCACTTTTG--------------ACCTTAAAAA-----CTTCA    184
+                      |||| .||||..|||              |.|.||||||     |||.|
+17236000..172   1078 -CTTC-TCCACCATTGGTTCTCTCTACACAATCATAAAAATTATCCTTAA   1125
+
+NM_103605        185 TTAGACCCGATC-AAACCGGTCCGACAAAATTTGAACACAAACGAGACCC    233
+                     .||.|...|||| |||||      ||||||.|   |.|||||    |.||
+17236000..172   1126 ATATAGTTGATCAAAACC------ACAAAACT---ATACAAA----ATCC   1162
+
+NM_103605        234 ------TCCT--CATCAAT---TGGAGACG--------------------    252
+                           ||||  ||| |||   |.|.||||                    
+17236000..172   1163 TTAAATTCCTACCAT-AATGTCTAGTGACGATGATGTTCTTGTCTTCATA   1211
+
+NM_103605        253 ----CACCCGG----GAGGGACAAGGTGGAACCCGACTCAAGAA-CAGAT    293
+                         |||.|||    .||..||.| ||||        ||..||| |.|.|
+17236000..172   1212 GTTACACTCGGATTAAAGACACCA-GTGG--------TCGTGAAGCTGCT   1252
+
+NM_103605        294 AGGGATACT-----TGA-GATGTTGT------------------------    313
+                     ..||..|||     ||| ||.|||||                        
+17236000..172   1253 TTGGCAACTTAGGCTGATGAGGTTGTTCCTCTTCTGCTTCTGTCTCTCGC   1302
+
+NM_103605        314 ------------------ACAAAGGTGGAA--------------------    325
+                                       ||.||  |.|||                    
+17236000..172   1303 GGGCTTTGTGGTTCTGGAACCAA--TAGAACACATTTTTCCCTTCGATTT   1350
+
+NM_103605        326 -TGCGTACT--CCTA-------------ATGCTCAA-CAGATTGAGCATA    358
+                      ..||||||  ||.|             |||||||| |.| |||||||| 
+17236000..172   1351 TCCCGTACTTACCGAGTTGCAATGTGATATGCTCAATCTG-TTGAGCAT-   1398
+
+NM_103605        359 T-------CACATTGCAACTCGGTAAGTACGGGAAAATC-GAAGGGAAAA    400
+                     |       |.||||.||.||..|||       .||.||| .|||    .|
+17236000..172   1399 TAGGAGTACGCATTCCACCTTTGTA-------CAACATCTCAAG----TA   1437
+
+NM_103605        401 -----ATGTGTTCT--ATT--GGTTCCA----------------------    419
+                          ||.||||||  |.|  |||||||                      
+17236000..172   1438 TCCCTATCTGTTCTTGAGTCGGGTTCCACCTTGTCCCTCCCGGGTGCGTC   1487
+
+NM_103605        420 -------GAA-CCACA------------------------AAGCCCGCGA    437
+                            ||| |||||                        ||.|      
+17236000..172   1488 TCCAACTGAACCCACACATTATTTCATTACATTTGTTAGGAATC------   1531
+
+NM_103605        438 GAGACA--------------------GAAGCAGAAGAGGAACAACCTCAT    467
+                      |.|||                    .||..|.||.||||||.| |||  
+17236000..172   1532 -ATACATTAAAATAAATAAATAAAATTAATAATAAAAGGAACCA-CTC--   1577
+
+NM_103605        468 CAGCC----TAAGT------TGCCAAAGCA--------------------    487
+                     |||.|    |||.|      ||.|||||.|                    
+17236000..172   1578 CAGTCGTTATAATTTATAAATGTCAAAGTATTAGGTATGCCGCAATTATC   1627
+
+NM_103605        488 -----GCTTCACGACCACTGGTG---------TCTTTAATC---CGAGTG    520
+                          .||||..||      |||         |||||..||   |||..|
+17236000..172   1628 AAAATTCTTCTAGA------GTGAATTCTTCTTCTTTTTTCAAACGAAAG   1671
+
+NM_103605        521 TAACTATGAAGA------CAAGAAC-ATCATCGTCACTAGACATTATGAG    563
+                     .|||.|||.|.|      .|||.|| ||.|| |..||| |||.|.|||||
+17236000..172   1672 AAACGATGTAAAATGTACGAAGTACAATAAT-GGAACT-GACTTGATGAG   1719
+
+NM_103605        564 AGA-----------------------------ACC---------------    569
+                      ||                             |||               
+17236000..172   1720 -GAGGGTCTCGTTTGTGTTCAAATTTTGTCGGACCGGTTTGATCGGGTCT   1768
+
+NM_103605        570 AATG------------------GTGG----------------------AG    579
+                     ||||                  ||||                      ||
+17236000..172   1769 AATGAAGTTTTTAAGGTCAAAAGTGGCTGAAGTGACGCCGGAGGAAGAAG   1818
+
+NM_103605        580 AAGGA--GGAGTTAGTG-----GAAGAGAATGAGTACAAGAGGACATGTA    622
+                     |||||  ||||..||.|     |.||||..|..|..|.|||||||  |.|
+17236000..172   1819 AAGGAGGGGAGGGAGGGCTGCCGGAGAGCTTAGGGGCGAGAGGAC--GGA   1866
+
+NM_103605        623 GG-------AGCT-------GGGGAT----TTGAGAACTTGGAGATAGAG    654
+                     ||       ||||       .|||||    |.||| .|.||    |.||.
+17236000..172   1867 GGCGTTTGCAGCTTAGGCTAAGGGATGATGTCGAG-TCATG----TTGAT   1911
+
+NM_103605        655 AACAGGAGAAACAAAA---ATAGTAGTACT-ATGGCAACTACTTTTAATA    700
+                     ..||.||..||.||||   ||...|..||| |||  |||  ||       
+17236000..172   1912 CCCACGATGAAGAAAACCCATTCGAAAACTCATG--AAC--CT-------   1950
+
+NM_103605        701 AAATCATTGACA-ATG-TAACCCTCG----AGCTTT---TTCCTCTCCAT    741
+                        ||||||..| ||| |||..||.|    .|||.|   |.|||.||  |
+17236000..172   1951 ---TCATTGCTATATGTTAAAACTAGCAAATGCTATGCATGCCTTTC--T   1995
+
+NM_103605        742 CCTGAAGGGAGATGA    756
+                     |.|.|.         
+17236000..172   1996 CGTTAC---------   2001
+
+
+#---------------------------------------
+#---------------------------------------
